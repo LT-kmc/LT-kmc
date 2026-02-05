@@ -1,4 +1,3 @@
 ## Hello! 👋
 
-### Cytometry in R
-- Week #1
+I'm currently working on scRNA-seq and flow cytometry analysis in R
